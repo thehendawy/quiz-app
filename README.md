@@ -34,7 +34,7 @@ The app will open in your browser at `http://localhost:3000`
 
 ## 🌐 Live Demo
 
-[Click here to try the quiz!](https://quiz-n820gp40s-ahmed-elhendawys-projects.vercel.app)
+[Click here to try the quiz!](https://quiz-gme3bgeqp-ahmed-elhendawys-projects.vercel.app)
 
 ---
 
