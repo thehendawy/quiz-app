@@ -34,7 +34,7 @@ The app will open in your browser at `http://localhost:3000`
 
 ## 🌐 Live Demo
 
-[Click here to try the quiz!](quiz-app-pied-three.vercel.app)
+[Click here to try the quiz!](https://quiz-app-pied-three.vercel.app/)
 
 ---
 
